@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "3220582e1140321a",
+    "type": "split",
+    "children": [
+      {
+        "id": "991b9257e31df658",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d99fdc54fdda1a93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Giáo trình tạo Project Desktop App theo mô hình mẫu của VIAMLAB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f975ef3d7d0a9111",
+    "type": "split",
+    "children": [
+      {
+        "id": "29c8c0e5423b66be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9985518b5924bb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99cefc329a603112",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e17af119961f496",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e4b4241ed79f6a97",
+    "type": "split",
+    "children": [
+      {
+        "id": "360f076138b3226d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a3486b45446e37a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Giáo trình tạo Project Desktop App theo mô hình mẫu của VIAMLAB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca554689a7b14ff8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Giáo trình tạo Project Desktop App theo mô hình mẫu của VIAMLAB.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dd29ca2fdfc30b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7532a5d79f287e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Giáo trình tạo Project Desktop App theo mô hình mẫu của VIAMLAB.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Mở bộ chuyển đổi nhanh": false,
+      "graph:Mở xem biểu đồ": false,
+      "canvas:Tạo bảng mới": false,
+      "daily-notes:Mở ghi chú hôm nay": false,
+      "templates:Chèn mẫu": false,
+      "command-palette:Mở khay lệnh": false
+    }
+  },
+  "active": "d99fdc54fdda1a93",
+  "lastOpenFiles": [
+    "command.png",
+    "datagrid.png",
+    "databinding.png",
+    "tabcontrol1.png",
+    "tabcontrol.png",
+    "style1.png",
+    "listview.png",
+    "treeview.png",
+    "TxtBox1.png",
+    "Giáo trình tạo Project Desktop App theo mô hình mẫu của VIAMLAB.md",
+    "material3.png",
+    "material2.png",
+    "Chưa đặt tên.md",
+    "Hệ thống sản xuất( bài tập nhóm)",
+    "Cấu.md",
+    "().md"
+  ]
+}
